@@ -1,0 +1,9 @@
+{
+  "name": "AeroLite OS",
+  "version": "0.1.0-dev",
+  "codename": "Skyfall",
+  "desktop": "LXQt",
+  "base": "Arch Linux",
+  "developer": "Harshal",
+  "website": "https://github.com/yourusername/AeroLiteOS"
+}
